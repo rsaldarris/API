@@ -15,4 +15,4 @@ def postOne():
     print("YOLO")
     return (TipoCultivo.create(body))
 
-app.run(port=5000, debug=True)
+#app.run(port=5000, debug=True)
